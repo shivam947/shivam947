@@ -8,8 +8,13 @@ I’m an Assistant Professor and Developer passionate about Java, Embedded Syste
 ![](https://github-readme-stats.vercel.app/api?username=shivam947&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivam947&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam947&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# Connect with me:
+
+<p align="left">
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shivam_sk841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shivam_sk841" height="30" width="40" /></a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivam947&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
